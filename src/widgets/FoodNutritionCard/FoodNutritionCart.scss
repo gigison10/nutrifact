@@ -1,0 +1,45 @@
+.foodNutritionCardBackground {
+  margin: 12px;
+  display: flex;
+  width: 350px;
+  border-radius: 16px;
+
+  .foodNutritionCard {
+    display: grid;
+    width: 250px;
+    margin: 12px;
+    background-color: rgb(241, 241, 241);
+    border-radius: 8px;
+    box-shadow: 2px 2px 4px 2px rgba(0, 0, 0, 0.2);
+    padding: 0 0 12px 0;
+    opacity: 85%;
+
+    .foodNutritionCardHeader {
+      border-radius: 8px 8px 0 0;
+
+      background-color: rgb(255, 255, 255);
+      .foodNutritionCardHeaderLabel {
+        padding: 12px;
+        font-weight: 500;
+        // margin-bottom: 12px;
+      }
+    }
+
+    .foodNutritionCardBody {
+      padding: 0 12px 0 12px;
+      background-size: cover;
+      background-position: center;
+
+      .foodNutritionCardBodyNutritionLine {
+        display: flex;
+      }
+
+      h6 {
+        margin: 4px 8px 0 0;
+        font-weight: 500;
+
+        // border-bottom: 1px solid black;
+      }
+    }
+  }
+}

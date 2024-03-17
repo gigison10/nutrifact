@@ -1,0 +1,20 @@
+.headerButton {
+  h4 {
+    transition: font-weight 0.3s ease;
+  }
+}
+
+.headerButton:hover {
+  h4 {
+    cursor: pointer;
+    font-weight: 400;
+  }
+}
+
+.headerButton:active {
+  h4 {
+    cursor: pointer;
+    font-weight: 400;
+    color: rgb(94, 93, 93);
+  }
+}
