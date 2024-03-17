@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/nutrifact/static/css/main.3950ba50.css",
+    "main.js": "/nutrifact/static/js/main.c6bb64b5.js",
+    "static/media/ColorLogo.png": "/nutrifact/static/media/ColorLogo.c27fd74312442276498a.png",
+    "index.html": "/nutrifact/index.html",
+    "main.3950ba50.css.map": "/nutrifact/static/css/main.3950ba50.css.map",
+    "main.c6bb64b5.js.map": "/nutrifact/static/js/main.c6bb64b5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3950ba50.css",
+    "static/js/main.c6bb64b5.js"
+  ]
+}
